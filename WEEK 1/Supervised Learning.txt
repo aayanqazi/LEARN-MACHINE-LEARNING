@@ -1,0 +1,6 @@
+SUPERVISED LEARNING:
+In seupervised learning we are given a data set and already know what our correct output should look like.
+
+Supervised Learning problems are catagorized into two parts 
+1) Regresssion 
+2) Classification 
